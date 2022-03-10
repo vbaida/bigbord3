@@ -8,7 +8,7 @@ hr {
 .fon {
     width: 600px;
    height: 100%;
-    background: lavender;
+    background: #B1C9EB;
 }
  img {
     width: 600px;
@@ -17,6 +17,13 @@ hr {
 h1 {
        font-family: 'Lobster', cursive;
     text-align: center;
+    color: #0f112c;
+}
+.four {
+       font-family: 'Lobster', cursive;
+    text-align: center;
+    color: #0f112c;
+    margin-top: 50px;
 }
 p {
     text-align: end;
@@ -30,12 +37,12 @@ p {
 .fon2 img {
     width: 300px;
     height: 300px;
-    background: lavender;
+
 }
 .fon2 {
     width: 600px;
     display: flex;
-    background: lavender;
+    background: #B1C9EB;
 }
 .three {
     margin-top: 20px;
